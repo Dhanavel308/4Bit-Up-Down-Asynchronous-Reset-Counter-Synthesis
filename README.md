@@ -1,4 +1,4 @@
-# 4Bit-Up-Down-Asynchronous-Reset-Counter-Synthesis
+# Exp-4: 4Bit-Up-Down-Asynchronous-Reset-Counter-Synthesis
 
 ## Aim:
 
@@ -65,17 +65,24 @@ used.
 
 #### Synthesis RTL Schematic :
 
+![Screenshot (160)](https://github.com/user-attachments/assets/207c46e4-fa13-4df1-bb15-2b74cd12de32)
+
+
 #### Area report:
+![Screenshot (171)](https://github.com/user-attachments/assets/6005d1bf-8f88-4d66-963b-5649cf0cccb1)
+
+
 
 #### Power Report:
 
+
+
+
 #### Timing Report: 
+
+![Screenshot (170)](https://github.com/user-attachments/assets/853fcdd6-a41c-41f8-ba1e-8d8985cc1a16)
+
 
 #### Result: 
 
 The generic netlist has been created, and area, power, and timing reports have been tabulated and generated using Genus.
-
-
-
-
-
